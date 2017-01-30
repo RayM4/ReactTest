@@ -1,0 +1,19 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "React rendering test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayM4/ReactTest.git"
+  },
+  "author": "ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayM4/ReactTest/issues"
+  },
+  "homepage": "https://github.com/RayM4/ReactTest#readme"
+}
